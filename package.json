@@ -1,0 +1,21 @@
+{
+  "name": "web-form-interview",
+  "main": "index.js",
+  "description": "Cypress tests",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "Tatty Astrouskaya",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^10.11.0",
+    "cypress-xpath": "^2.0.1",
+    "dotenv": "^16.0.3"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
